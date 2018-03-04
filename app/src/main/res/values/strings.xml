@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TH Sensor driver </string>
+    <string name="LabelNumSensorReadings">Number of Sensor Readings :</string>
+    <string name="LabelActivity">Activity :</string>
+    <string name="LabelHumidity">Humidity :</string>
+    <string name="LabelTemperature">Temperature :</string>
+    <string name="ButnCancel">Cancel</string>
+    <string name="ButnGenerate">Generate</string>
+</resources>
